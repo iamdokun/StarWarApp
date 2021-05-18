@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Head Text */
+header {
+    background-color: pink;
+}
+#head-text {
+   padding: 1rem;
+   font-weight: 100;
+}
+
+/* List of Users and there details */
+.wrap {
+    border: 1px solid red;
+}
+.card {
+    margin: auto;
+}
