@@ -19,7 +19,7 @@ header {
    color: #fff;
 }
 
-/* List of Users and there details */
+/* List of Top 10 richest people in the world and there details */
 main {
     margin-top: 5rem;
 }
@@ -77,20 +77,21 @@ img {
     display: none;
 }
 
-
+/* Ipad Screen */
 @media (min-width:768px) {
     .wrap {
         width: 70%;
     }
 }
 
+/* Ipad pro Screen */
 @media (min-width:1024px) {
     .wrap {
         width: 60%;
     }
-
 }
 
+/* Ladtop and Desktop Screen */
 @media (min-width:1200px) {
     .wrap {
         width: 40%;
